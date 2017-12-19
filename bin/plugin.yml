@@ -1,0 +1,7 @@
+name: MrFazendinha
+version: 1.0
+author: LippzDev 
+main: net.lippz.fazendinha.Main
+description: Plugin de Fazendinha - Simples
+commands:
+   fazendinha:
